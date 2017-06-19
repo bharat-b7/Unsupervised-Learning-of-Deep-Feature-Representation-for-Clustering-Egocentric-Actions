@@ -1,5 +1,7 @@
 # Unsupervised-Learning-of-Deep-Feature-Representation-for-Clustering-Egocentric-Actions
 
+This is the code for our paper "Unsupervised Learning of Deep Feature Representation for Clustering Egocentric Actions, IJCAI 2017".
+
 The folder contains following files.
 
 1) train_2D_mult_auto_ver4.py  :  Train multilayer 2D convolutional autoencoders to extract frame level features.
